@@ -60,7 +60,6 @@ void  merge(int *ptr1, int  *ptr2, int len, int len2, int *output)
 }
 int main()
 {
-//int bak[] = {3, 0, 4, 6, 5, 7};
 int bak[] = {3323, 2320, 4, 60, 53, 7, 3, 2, 5, 6, 5, 3, 2, 1, 10, 11, 24};
 for(int i = 0; i < 17; i++){
 	printf(" %d ",bak[i]);
